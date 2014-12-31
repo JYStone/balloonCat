@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DBC78AAD-A959-4275-8FB4-5B2D90E40570</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ballooncat</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>20E0AC440A9F3B26F5134AB7C181FA788B6DCD07</key>
+		<string>https://bitbucket.org/liuchunyao90/ballooncat.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ballooncat.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>20E0AC440A9F3B26F5134AB7C181FA788B6DCD07</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/liuchunyao90/ballooncat.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>20E0AC440A9F3B26F5134AB7C181FA788B6DCD07</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>20E0AC440A9F3B26F5134AB7C181FA788B6DCD07</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ballooncat</string>
+		</dict>
+	</array>
+</dict>
+</plist>
