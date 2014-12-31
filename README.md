@@ -12,8 +12,7 @@ spritekit并且头疼不已的童鞋们。同时，任何bug修复和代码改�
 对项目的一切努力！
 
 
-Forum:http://tieba.baidu.com/f?ie=utf-8&kw=spritekit%20%E5%90%A7&fr=search
-
+[Forum](http://tieba.baidu.com/f?ie=utf-8&kw=spritekit%20%E5%90%A7&fr=search)
 My ID:liuchunyao90
 
 [Blog](http://segmentfault.com/blog/flappyheart)
